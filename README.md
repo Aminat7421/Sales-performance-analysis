@@ -81,15 +81,15 @@ Based on the analysis and dashboard insights:
 sales-performance-analysis/
 │
 ├── data/
-│   └── sales_data.xlsx                # Raw or cleaned dataset
+│   └── sales_data.xlsx               # Raw or cleaned dataset
 │
 ├── dashboard/
-│   └── sales_dashboard.xlsx           # Excel interactive dashboard
+│   └── sales_dashboard.xlsx          # Excel interactive dashboard
 │
 ├── images/
-│   └── dashboard_screenshot.png       # Screenshot of Excel dashboard
+│   └── dashboard_screenshot.png      # Screenshot of the Excel dashboard
 │
-└── README.md                          # Main project documentation
+└── README.md                         # Main project documentation
 
 
 
