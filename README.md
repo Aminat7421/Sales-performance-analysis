@@ -78,7 +78,7 @@ Based on the analysis and dashboard insights:
 
 ##  Repository Structure
 
-sales-performance-analysis/
+```sales-performance-analysis/
 │
 ├── data/
 │   └── sales_data.xlsx               # Raw or cleaned dataset
@@ -89,7 +89,8 @@ sales-performance-analysis/
 ├── images/
 │   └── dashboard_screenshot.png      # Screenshot of the Excel dashboard
 │
-└── README.md                         # Main project documentation
+└── README.md                         # Main project documentation```
+
 
 
 
