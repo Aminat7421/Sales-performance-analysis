@@ -89,10 +89,8 @@ Based on the analysis and dashboard insights:
 ├── images/
 │   └── dashboard_screenshot.png      # Screenshot of the Excel dashboard
 │
-└── README.md                         # Main project documentation```
-
-
-
+└── README.md                         # Main project documentation
+```
 
 ---
 
