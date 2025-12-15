@@ -1,7 +1,7 @@
 #  Sales Performance Analysis
 
 This project provides a comprehensive end-to-end **Sales Performance Analysis** using raw sales data.  
-It covers **data cleaning**, **exploratory data analysis**, **visualization**, and an interactive **Sales Performance Dashboard** built in Excel.
+It covers **data cleaning**,**Functions**, **exploratory data analysis**, **visualization**, and an interactive **Sales Performance Dashboard** built in Excel.
 
 ---
 
